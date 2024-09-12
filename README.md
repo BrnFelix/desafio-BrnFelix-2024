@@ -5,6 +5,7 @@ Este projeto foi proposto pela DB Company para resolver um desafio de lógica qu
 ![alt text](image.png)
 
 *Objetivo*
+
 O objetivo deste projeto é organizar e distribuir os animais recém-chegados no zoológico em recintos adequados. Para isso, o programa verifica:
 
 - Compatibilidade de biomas: Cada recinto deve oferecer condições adequadas para o bioma do animal (ex: savana, floresta, etc).
